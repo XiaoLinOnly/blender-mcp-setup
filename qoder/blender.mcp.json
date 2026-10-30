@@ -1,0 +1,6 @@
+{
+  "blender": {
+    "command": "C:\\Users\\<you>\\.local\\bin\\uvx.exe",
+    "args": ["mcp-for-blender"]
+  }
+}
